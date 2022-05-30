@@ -1,0 +1,3 @@
+Se161130;Nguyen Minh;Tu;Male;11/04/2002;nmt.ttn@gmail.com;0914562365
+se172306;Pham Thi Mai;Tram;Female;24/10/2002;maitrampt@gmail.com;0914523698
+se172356;Le Hoai Duc;Anh;Male;27/06/2002;mhdfin@gmail.com;0563256326
